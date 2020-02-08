@@ -1,0 +1,11 @@
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\bin\Debug\netstandard2.0\SimpleUnitTest.Application.deps.json
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\bin\Debug\netstandard2.0\SimpleUnitTest.Application.dll
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\bin\Debug\netstandard2.0\SimpleUnitTest.Application.pdb
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\bin\Debug\netstandard2.0\SimpleUnitTest.Domain.dll
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\bin\Debug\netstandard2.0\SimpleUnitTest.Domain.pdb
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\obj\Debug\netstandard2.0\SimpleUnitTest.Application.csprojAssemblyReference.cache
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\obj\Debug\netstandard2.0\SimpleUnitTest.Application.AssemblyInfoInputs.cache
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\obj\Debug\netstandard2.0\SimpleUnitTest.Application.AssemblyInfo.cs
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\obj\Debug\netstandard2.0\SimpleUnitTest.Application.csproj.CopyComplete
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\obj\Debug\netstandard2.0\SimpleUnitTest.Application.dll
+C:\Users\silas\Documents\API - Treino\simple-unit-test\source\SimpleUnitTest.Application\obj\Debug\netstandard2.0\SimpleUnitTest.Application.pdb
